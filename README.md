@@ -1,6 +1,6 @@
 # DATE :
 
-# EXP NO : 3 - Correlation and regression for data analysis
+#  Correlation and regression for data analysis
 
 # Aim : 
 
@@ -24,8 +24,10 @@ If y represents the dependent variable and x the independent variable, this rela
 # Program :
 
 DEVELOPED BY : V.SAI SRUTHI
+
 REGISTER NUMBER : 212223100061
 
+``````
 import numpy as np
 import math
 import matplotlib.pyplot as plt
@@ -58,6 +60,7 @@ plt.plot(x,y1,'r')
 plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
+``````
 
 # OutpuT :
 
